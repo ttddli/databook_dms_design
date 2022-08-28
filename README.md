@@ -65,6 +65,7 @@ This repo is the design for the Data Management System
    - Because of different data sources and types (SQL, NoSQL, PDF, etc..), data warehouse and database may not good solutions for this data management system.
    - Data lake can be used to store and process different types of data (structured, unstructured, or semi-structured)
    - For future usages, integration with other systems, ML related applications, a data LakeHouse could be a better choice for this project. 
+
 ![Screenshot](infra.png)
 
 ### Tools/Technologies
