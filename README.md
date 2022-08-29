@@ -7,7 +7,7 @@
 
 1. Get all the requirements in this project.
 2. List possible solution(s)/technologies for each item in the requirement list
-3. Pick the one (or multiple solutions) that can cover all the requirements
+3. Pick one (or multiple solutions) that could cover all the requirements
 
 ### Requirements and proposed solutions
 1. The system will encapsulate existing SQL, NoSQL databases, a large corpus of PDFs, along with any necessary future database technologies.
