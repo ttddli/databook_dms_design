@@ -72,7 +72,7 @@
    - Can we use dashboard to show the data?
 <br><br/>
 6. **Non-Technical User**
-   - Can those users user SQL?
+   - Can those users use SQL?
    - How do they create expressions? 
 <br><br/>
 7. **Data Status**
