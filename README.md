@@ -5,7 +5,7 @@
 <br><br/>
 ## How you would approach such a project?
 
-1. Have all the requirements in this project.
+1. Get all the requirements in this project.
 2. List possible solution(s)/technologies for each item in the requirement list
 3. Pick the one (or multiple solutions) that can cover all the requirements
 
