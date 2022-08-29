@@ -2,8 +2,7 @@
 
 ### Author: Zhongyuan(Thomas) Li
 ### Date: 2022/08/28
-
----
+<br><br/>
 ## How you would approach such a project?
 
 1. Have all the requirements in this project.
